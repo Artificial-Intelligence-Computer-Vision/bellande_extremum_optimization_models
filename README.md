@@ -1,4 +1,5 @@
-## 📦 Bellande Extremum Optimization Models
+# 📦 Bellande Extremum Optimization Models
+## BEO also known as (Bellande Extremum Optimization) Models
 
 **Temporarily Disabled**
 
